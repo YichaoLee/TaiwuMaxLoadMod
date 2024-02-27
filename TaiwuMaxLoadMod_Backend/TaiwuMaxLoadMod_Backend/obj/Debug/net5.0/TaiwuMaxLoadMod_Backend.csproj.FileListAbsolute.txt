@@ -1,0 +1,5 @@
+E:\Lich\source\repos\TaiwuMaxLoadMod_Backend\TaiwuMaxLoadMod_Backend\obj\Debug\net5.0\TaiwuMaxLoadMod_Backend.csproj.AssemblyReference.cache
+E:\Lich\source\repos\TaiwuMaxLoadMod_Backend\TaiwuMaxLoadMod_Backend\obj\Debug\net5.0\TaiwuMaxLoadMod_Backend.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lich\source\repos\TaiwuMaxLoadMod_Backend\TaiwuMaxLoadMod_Backend\obj\Debug\net5.0\TaiwuMaxLoadMod_Backend.AssemblyInfoInputs.cache
+E:\Lich\source\repos\TaiwuMaxLoadMod_Backend\TaiwuMaxLoadMod_Backend\obj\Debug\net5.0\TaiwuMaxLoadMod_Backend.AssemblyInfo.cs
+E:\Lich\source\repos\TaiwuMaxLoadMod_Backend\TaiwuMaxLoadMod_Backend\obj\Debug\net5.0\TaiwuMaxLoadMod_Backend.csproj.CoreCompileInputs.cache

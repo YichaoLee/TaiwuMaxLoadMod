@@ -1,0 +1,6 @@
+E:\Lich\source\repos\TaiwuMaxLoadMod\TaiwuMaxLoadMod\bin\Debug\TaiwuMaxLoadMod.dll
+E:\Lich\source\repos\TaiwuMaxLoadMod\TaiwuMaxLoadMod\bin\Debug\TaiwuMaxLoadMod.pdb
+E:\Lich\source\repos\TaiwuMaxLoadMod\TaiwuMaxLoadMod\obj\Debug\TaiwuMaxLoadMod_Frontend.csproj.AssemblyReference.cache
+E:\Lich\source\repos\TaiwuMaxLoadMod\TaiwuMaxLoadMod\obj\Debug\TaiwuMaxLoadMod_Frontend.csproj.CoreCompileInputs.cache
+E:\Lich\source\repos\TaiwuMaxLoadMod\TaiwuMaxLoadMod\obj\Debug\TaiwuMaxLoadMod.dll
+E:\Lich\source\repos\TaiwuMaxLoadMod\TaiwuMaxLoadMod\obj\Debug\TaiwuMaxLoadMod.pdb
